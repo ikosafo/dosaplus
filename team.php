@@ -54,7 +54,7 @@
                     </div>
                     <div class="team layout-2">
                         <div class="padding-20px">
-                            <h3>Mr. Kwaku Asante Boateng (ICA Gh)</h3>
+                            <h3>Mr. Kwaku Asante Boateng</h3>
                             <div class="jop">Financial Controller</div>
                         </div>
                     </div>
