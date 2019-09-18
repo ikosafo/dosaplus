@@ -80,7 +80,7 @@
                     <div class="team layout-2">
                         <div class="padding-20px">
                             <h3>Mr. Ben Asante Brako</h3>
-                            <div class="jop">Head of Commercials</div>
+                            <div class="jop">Marketing and Social Media </div>
                         </div>
                     </div>
                 </div>

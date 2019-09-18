@@ -24,7 +24,6 @@
                         <h2 class="title-text">Who We Are ?</h2>
                     </div>
                     <div class="about-text margin-tb-25px">
-                        <h4>5 years of experience in Logistics services</h4>
                         Freight Partners, door to door cargo delivery services : Europe to Ghana
                         (Pick shipments from homes in Europe and sends to Ghana to your door step )<br/> <hr/>
                         We offer high-performance logistics solutions that would exceed customer expectations through

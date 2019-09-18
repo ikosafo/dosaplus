@@ -8,8 +8,8 @@
     <meta name="robots" content="index follow">
     <meta name="googlebot" content="index follow">
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
-    <meta name="keywords" content="cargo, clean, contractor, corporate, freight, industry, localization, logistics, modern, shipment, transport, transportation, truck, trucking">
-    <meta name="description" content="Transportation and Logistics Responsive HTML5 Template">
+    <meta name="keywords" content="dosa plus,dosa,plus,logistics,freight">
+    <meta name="description" content="Dosa Plus Logistics">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- google fonts -->
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,800%7CPoppins:300i,300,400,500,600,700,400i,500%7CDancing+Script:700%7CDancing+Script:700%7CGreat+Vibes:400%7CPoppins:400%7CDosis:800%7CRaleway:400,700,800&amp;subset=latin-ext" rel="stylesheet">
@@ -110,7 +110,6 @@
                                         <ul class="sub-menu">
                                             <li><a href="aboutus.php">About Us</a></li>
                                             <li><a href="team.php">Our Team</a></li>
-                                            <li><a href="pricequotes.php">Price Quotes</a></li>
                                             <li><a href="partners.php">Our Partners</a></li>
                                         </ul>
                                     </li>
@@ -121,10 +120,11 @@
                                             <li><a href="serviceocean.php">Ocean Freight</a></li>
                                             <li><a href="servicepackage.php">Packaging and Storage</a></li>
                                             <li><a href="servicedelivery.php">Fast Delivery</a></li>
+                                            <li><a href="pricequotes.php">Price Quotes</a></li>
                                         </ul>
                                     </li>
-                                    <li><a href="blog.php">Blog</a>
-                                    </li>
+                                    <!--<li><a href="blog.php">Blog</a>
+                                    </li>-->
                                     <li><a href="contact.php">Contact Us</a></li>
 
                                 </ul>

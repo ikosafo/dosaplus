@@ -111,7 +111,7 @@
 
                 <div class="col-lg-3 col-md-6">
                     <div class="service-icon-box">
-                        <div class="icon"><img src="assets/icons/service-blue-1.png" alt=""></div>
+                        <div class="icon"><img src="assets/icons/service-blue-3.png" alt=""></div>
                         <a href="#" class="title h2">Parcel Movement</a>
                         <div class="des">We provide a standby rider to collect all parcels from your office
                             every morning and have them delivered to final destinations. This service also allows
@@ -135,7 +135,7 @@
 
                 <div class="col-lg-3 col-md-6">
                     <div class="service-icon-box">
-                        <div class="icon"><img src="assets/icons/service-blue-3.png" alt=""></div>
+                        <div class="icon"><img src="assets/icons/service-blue-1.png" alt=""></div>
                         <a href="#" class="title h2">Storage & Distribution</a>
                         <div class="des">We provide a safe secure storage area for the top finance bank packages.
                             This storage room is equipped with well trained staff and security systems to
